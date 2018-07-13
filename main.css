@@ -238,3 +238,17 @@ h2{
     }
     
 }
+
+@media only screen and (min-width: 360px){
+    
+    .contactinfoicons{
+        padding-left: 150px;
+    }
+    
+    .contactphone{
+        padding-left: 130px;
+    }
+    
+    
+    
+}
