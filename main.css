@@ -28,9 +28,10 @@ h3{
 }
 
 .contactphone{
-    width: 100px;
+    max-width: 100px;
+    margin: 0 auto;
     padding-top: 20px;
-    padding-left: 130px;
+    padding-left: 140px;
 }
 
 .contactinfoicons{
@@ -38,7 +39,7 @@ h3{
     grid-template-columns: 1fr 1fr 1fr 1fr;
     font-family: 'Roboto Slab', serif;
     text-align: center;
-    padding-left: 145px;
+    padding-left: 160px;
     padding-top: 10px;
 }
 
@@ -57,12 +58,16 @@ h3{
 }
 
 .logo{
-    padding-left: 150px;
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 
 .navbar{
     color: white; 
+    margin: 0 auto;
+    max-width: 300px;
 }
 
 .navbar li{
