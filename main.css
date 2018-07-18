@@ -165,7 +165,7 @@ h2{
     
     .logo{
         position: absolute; 
-        left: 0;
+        left: 90px;
         top: 5px;
     }
     
@@ -222,6 +222,7 @@ h2{
         grid-template-columns: 1fr 1fr; 
         max-width: 200px;
         padding-left: 200px;
+        margin-left: 60px;
         color: white;
         font-size: 12px;
     }
@@ -229,11 +230,11 @@ h2{
    
     
     .phonecontact{
-        padding-left: 60px;
+        padding-left: 50px;
     }
     
     .locationdiv{
-        padding-left: 60px;
+        padding-left: 40px;
         padding-top: 20px;
     }
     
